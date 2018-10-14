@@ -4,13 +4,13 @@
 import sys
 import click
 
+from greetcute import greet
+
 
 @click.command()
 def main(args=None):
     """Console script for greetcute."""
-    click.echo("Replace this message by putting your code into "
-               "greetcute.cli.main")
-    click.echo("See click documentation at http://click.pocoo.org/")
+    greet()
     return 0
 
 
