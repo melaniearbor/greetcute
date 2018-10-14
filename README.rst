@@ -20,7 +20,7 @@ GreetCute
 
 
 
-It's just the cutest greeter ever and it'll print out nice ways too say hello.
+It's just the cutest greeter ever and it'll print out nice ways to say hello.
 
 
 * Free software: MIT license
