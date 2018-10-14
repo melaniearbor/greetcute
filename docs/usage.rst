@@ -4,11 +4,11 @@ Usage
 
 To use GreetCute in a project::
 
-    from greetcute.greetcute import greet
+    from greetcute import greetcute
 
 To create an unbelievably stupendous greeting::
 
-    greeting = greet()
+    greeting = greetcute.greet()
 
 And then… ::
 
