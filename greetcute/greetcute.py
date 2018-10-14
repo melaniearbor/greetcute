@@ -23,5 +23,5 @@ def greet():
                   'elegant, like a sea bird', 'super good at stuff and things',
                   'lovely as a snowy owl perched in a snowy tree',
                   'mysterious, like a tv superhero', ]
-    print(f"Hello you {choice(adjectives)} {choice(sweet_names)}! "
+    return (f"Hello you {choice(adjectives)} {choice(sweet_names)}! "
           f"I think you're {choice(compliment)}.")

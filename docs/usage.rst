@@ -4,13 +4,13 @@ Usage
 
 To use GreetCute in a project::
 
-    from greetcute import greetcute
+    from greetcute.greetcute import greet
 
 To create an unbelievably stupendous greeting::
 
-    greeting = greetcute.greet()
+    greeting = greet()
 
 And then… ::
 
     print(greeting)
-    Hello you talented sunfish! I think you're super good at stuff and things.
+    Hello you luxurious rain drop! I think you're super swell.
